@@ -10,7 +10,6 @@ import ru.alishev.springcourse.Project2Boot.models.Book;
 import ru.alishev.springcourse.Project2Boot.models.Person;
 import ru.alishev.springcourse.Project2Boot.services.BookService;
 import ru.alishev.springcourse.Project2Boot.services.PeopleService;
-import ru.alishev.springcourse.Project2Boot.util.PersonValidator;
 @Controller
 @RequestMapping("/books")
 public class BooksController {
